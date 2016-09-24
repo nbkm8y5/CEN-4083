@@ -71,3 +71,72 @@ Notes for cloud computing course
   * Platform as a Service
 
   * Infrastructure as a Service
+
+###Cloud Deployment models
+
+* Public
+
+  * Advantage: Open to anyone with internet access
+  * Disadvantage: Non-regulatory, security, restrictions (Finance/Medical/etc.)
+
+* Private
+
+  * Provides service to a single entity, with any additional services and not shared
+  * Expensive when compared to public because costs are not divided
+
+* Community
+
+  * In between public and private.
+  * Common interest entities such as banks, corporations, individuals
+
+* Hybrid
+
+  * Conglomerate of the other types of clouds.
+  * Bursting, when resource exceed that of a given cloud and needs to extend into other clouds.
+
+###Five Characteristics of Cloud computing
+
+* Broad network access (Where)
+
+  * Consume services from anywhere
+
+* On-demand self-service (When)
+
+  * Consume services when you want
+
+* Resource Pooling and Virtualization (How)
+
+  * Pool the infrastructure, virtual platforms, and applications
+
+* Rapid Elasticity (How)
+
+  * Share pooled resources to enable horizontal scalability
+
+* Measured service (How much)
+
+  * Pay for the service you consume as you consume it
+
+### Cloud Computing Actors
+
+* Service Consumer
+
+  * Uses cloud services, determines which services to use, and reaches agreement with service provider
+
+ * Service Provider
+
+  * Entity that provides cloud services to service consumers
+  * Orchestrates configuration and activation of services to consumer
+  * Maintains service catalog of services provided including service costs and price.
+
+* Service Creator
+
+  * Creates the service for the service provider
+  * Main function is to marshal and optimize the supply of resources
+
+* Service Broker
+
+  * Intermediary between consumer and a number of service providers
+  * Plays three distinct roles:
+    * Prevents consumer from locked in to a specific provider
+    * Aggregates services from various providers and provides a transparent interconnection between multiple providers
+    * Orchestrates the services to the consume from a number of providers based on cost, quality and timeliness.
