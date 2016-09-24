@@ -37,3 +37,37 @@ Notes for cloud computing course
 
   * Cost
   * SLA (Service Level Agreement)
+
+* Service Level Agreement (SLA)
+
+  * Contract between service consumer and the service supplier
+  * Terms: Service delivery time frame (when), its quality (what) and scope (where and how much).
+
+* Operational Level Agreement (OLA)
+
+  * If consumer is internal to service supplier company, then internal agreement is considered an operational level agreement.
+
+* Service Level Objectives (SLO)
+
+  * Objectives, or metrics user to monitor performance and auditing of the system.
+  * Used to measure specific characteristics of SLA.
+
+###Cloud Service models
+
+* Business Architecture
+
+  * Business Process as a Service
+
+* Information Architecture
+
+  * Information as a Service
+
+* Application Architecture
+
+  * Software as a Service
+
+* Technology Architecture
+
+  * Platform as a Service
+
+  * Infrastructure as a Service
