@@ -28,3 +28,12 @@ Notes for cloud computing course
 * Increased efficiency in less space, maintenance, cooling and electricity costs.
 
 * Elasticity: Pooling a set of virtual machines together when they can join/leave the pool of other virtual machines so that scalability is automated and on-demand.
+
+###Cloud Services
+
+* Definition of a service: “a collection of IT systems, components, and resources that work together to provide value to users.”
+
+* Two parameters used to asses a service:
+
+  * Cost
+  * SLA (Service Level Agreement)
