@@ -99,3 +99,40 @@ Notes for cloud computing course
 * Defined by its scope. Inanimate objects, or things.
 
 * Works with “things” and not people.
+
+###Cloud Relationships
+
+* Cloud components share information /services
+
+  * Types of Relationships
+
+    * encapsulation
+
+      * Object contained/wrapped within another Object
+    * Types of encapsulation
+      * Composition
+       * Multiple distinct objects to create an overall object
+      * Aggregate
+       * Collection of same/similar clouds/cells
+    * Composition
+      * Multiple distinct objects to create an overall distinct object
+      * Each cell can be replicated across other clouds
+      * Management Characteristics
+       * updates/patches to cloud cell
+       * upgrades to the cell’s hardware
+       * upgrades to the cell’s OS and core applications that form platform
+       * Upgrades to the applications hosted on the cell, and changes in the roadmap that define when upgrades and updates are to occur in future
+      * Any change in one cell applies to all other replicas
+    * Federation Aggregate
+     * Special type of Composition
+     * Mash-up of distinct cloud services with third party cells
+     * Mashup of distinct cloud services built entirely of third party cells.
+     * Transparent to end user.
+     * Collection of same/similar clouds/cell
+    * Cloud Cell Patterns
+     * Distinct cloud services built from distinct cloud cells for distinct functionality
+     * Four essential elements:
+      * Pattern name - ID that creates a common vocabulary
+      * Problem statement - Description of when and what circumstances to apply pattern
+      * Solution - Description of elements that make up the pattern, relationships, and interfaces
+      * Consequences - Trade offs and impact of using the pattern (in some cases price and value model)
